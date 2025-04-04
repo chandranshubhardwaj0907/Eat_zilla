@@ -1,2 +1,3 @@
-EAT_ZILLA
-please dowload CORS chrome extension 
+# EatZilla
+
+Please download CORS chrome extension to run.
